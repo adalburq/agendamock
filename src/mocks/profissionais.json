@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nome": "Raphael",
+        "status": true
+    },
+    {
+        "id": 3,
+        "nome": "Adalberto",
+        "status": true
+    },
+    {
+        "id": 5,
+        "nome": "Vitor",
+        "status": true
+    },
+    {
+        "id": 7,
+        "nome": "Job",
+        "status": true
+    },
+    {
+        "id": 9,
+        "nome": "Vitoria",
+        "status": true
+    }
+]

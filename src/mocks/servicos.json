@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nome": "Corte de Cabelo",
+        "status": true
+    },
+    {
+        "id": 3,
+        "nome": "Corte de Barba",
+        "status": true
+    },
+    {
+        "id": 5,
+        "nome": "Pintar Cabelo",
+        "status": true
+    },
+    {
+        "id": 7,
+        "nome": "Fazer unhas",
+        "status": true
+    },
+    {
+        "id": 9,
+        "nome": "Fazer sobrancelhas",
+        "status": true
+    }
+]
